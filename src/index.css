@@ -1,0 +1,8 @@
+.card {
+  width: 1000px;
+}
+
+.validation-error {
+  color: red;
+  font-size: 15px;
+}

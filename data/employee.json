@@ -1,0 +1,12 @@
+{
+  "employees": [
+    {
+      "name": "Vysagh K T",
+      "email": "vysagh.kt@gadgeon.com",
+      "designation": "software trainee",
+      "salary": "40000",
+      "phone": "9895522726",
+      "id": 1
+    }
+  ]
+}
